@@ -15,3 +15,6 @@ Analizar los temas del capítulo 5 y 6, a fin de lograr una mejor comprensión, 
  • Distinguir de forma clara las fórmulas, que ayudarán a una mejor resolución de ejercicios.
  
 2.-Marco Teórico 
+
+![Untitled Diagram (3)](https://user-images.githubusercontent.com/105687213/171780296-f62b3cb2-4116-4823-8cf1-a76e556272b3.jpg)
+
