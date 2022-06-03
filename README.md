@@ -829,6 +829,8 @@ Si, la resistencia R5 está abierta, ya que en la figura se puede ver que se ha 
 
 4.Video
 
+https://youtu.be/JhqPvfxoU5M
+
 5.Conclusiones
 
 
